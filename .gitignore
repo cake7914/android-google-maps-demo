@@ -10,6 +10,7 @@
 # Java class files
 *.class
 
+
 # generated files
 bin/
 gen/
@@ -27,3 +28,5 @@ local.properties
 .idea
 build
 import-summary.txt
+
+app/src/main/res/values/strings.xml
